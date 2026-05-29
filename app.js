@@ -348,7 +348,7 @@ function renderHome() {
   screen.innerHTML = `
     <section class="hero">
       <div class="hero-copy">
-        <div class="logo-card"><img src="../assets/logo-ciber-ucn.png" alt="Logo Cibercolegio UCN"></div>
+        <div class="logo-card"><img src="logo-ciber-ucn.png" alt="Logo Cibercolegio UCN"></div>
         <p class="eyebrow">Simulador interactivo educativo</p>
         <h1>Las leyes de la robótica</h1>
         <p class="lead">Decisiones que cambian el mundo. Construye robots, programa reglas, enfrenta dilemas éticos y descubre cómo cada algoritmo transforma la seguridad, la sostenibilidad, la privacidad y la vida colectiva.</p>
